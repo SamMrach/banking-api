@@ -38,3 +38,4 @@ out/
 
 /api-gateway/target/
 /discovery-serivce/target/
+/core-banking/target/
