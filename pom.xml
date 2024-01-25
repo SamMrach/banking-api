@@ -12,6 +12,7 @@
         <module>discovery-serivce</module>
         <module>api-gateway</module>
         <module>core-banking</module>
+        <module>banking-user-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
