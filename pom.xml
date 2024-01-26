@@ -14,6 +14,7 @@
         <module>core-banking</module>
         <module>banking-user-service</module>
         <module>fund-transfer-service</module>
+        <module>utility-payment-service</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
